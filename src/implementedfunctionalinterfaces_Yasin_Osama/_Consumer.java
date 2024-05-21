@@ -1,4 +1,4 @@
-package implementedfunctionalinterfaces;
+package implementedfunctionalinterfaces_Yasin_Osama;
 
 import java.util.function.BiConsumer;
 import java.util.function.Consumer;

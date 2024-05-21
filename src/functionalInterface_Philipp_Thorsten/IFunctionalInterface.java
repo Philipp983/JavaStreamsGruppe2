@@ -1,4 +1,4 @@
-package functionalInterface;
+package functionalInterface_Philipp_Thorsten;
 
 /**
  * This is a functional interface: definition: only one abstract Method

@@ -1,4 +1,4 @@
-package functionalInterface;
+package functionalInterface_Philipp_Thorsten;
 
 public class ImplementationOfIFunctionalInterface {
 
@@ -17,7 +17,9 @@ public class ImplementationOfIFunctionalInterface {
 		System.out.println(result.mathOperation(5));
 
 		System.out.println("Used Lambda expression:");
+
 		IFunctionalInterface resultLambda = n -> n + 1;
+
 		System.out.println(resultLambda.mathOperation(8));
 
 	}

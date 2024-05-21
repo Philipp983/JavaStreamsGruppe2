@@ -1,7 +1,6 @@
 TODO: Paketnamen umbennen: a b c... (sortieren)
 
 
-
 # 1. Have a look at the class HowItLooks
 
 
@@ -35,6 +34,10 @@ What do we get from a functional Interface?
 ## Look at ImplementationOfIFunctionalInterface
 Enables us to write with lambda syntax, compiler takes care of the surrounding syntax for us 🧑‍🏭♥️
 Advantage: code is more concise, we only have to care about the logic and can create wonderful oneliners ;)
+
+
+<img src="https://external-preview.redd.it/-e4LjDmFhVTFl7Snu7kaYy6k53R2m6_1B-zc0TsnYRQ.jpg?auto=webp&s=fb3749a2f0cdc0cf83c870f2338f9f3d4181f4d3" alt="Description" width="500" height="auto">
+
 
 !<img src="https://programmerhumor.io/wp-content/uploads/2023/03/programmerhumor-io-programming-memes-7c93137a11a127f-758x1025.jpg" alt="Funny programmer meme" width="400" height="500">
 

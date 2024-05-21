@@ -36,7 +36,8 @@ What do we get from a functional Interface?
 Enables us to write with lambda syntax, compiler takes care of the surrounding syntax for us 🧑‍🏭♥️
 Advantage: code is more concise, we only have to care about the logic and can create wonderful oneliners ;)
 
-![0rz23wvc.bmp](https://programmerhumor.io/wp-content/uploads/2023/03/programmerhumor-io-programming-memes-7c93137a11a127f-758x1025.jpg)
+!<img src="https://programmerhumor.io/wp-content/uploads/2023/03/programmerhumor-io-programming-memes-7c93137a11a127f-758x1025.jpg" alt="Funny programmer meme" width="400" height="500">
+
 
 
 What do we get from that?

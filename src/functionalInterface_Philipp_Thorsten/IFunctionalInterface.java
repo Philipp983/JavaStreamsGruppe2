@@ -8,7 +8,3 @@ public interface IFunctionalInterface {
 	Integer mathOperation(Integer number);
 }
 
-
-
-
-

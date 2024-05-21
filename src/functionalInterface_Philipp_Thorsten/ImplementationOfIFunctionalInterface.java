@@ -18,9 +18,11 @@ public class ImplementationOfIFunctionalInterface {
 		System.out.println(result.mathOperation(5));
 
 
+
 		System.out.println("Used Lambda expression:");
 		IFunctionalInterface resultLambda = n -> n + 1;
 		System.out.println(resultLambda.mathOperation(8));
+
 
 
 		System.out.println("Lambda with no input parameter");
@@ -43,5 +45,6 @@ public class ImplementationOfIFunctionalInterface {
 			return false;
 		};
 		System.out.println(resultBooleanInterface.booleanReturnInterface("5", 5));
+
 	}
 }

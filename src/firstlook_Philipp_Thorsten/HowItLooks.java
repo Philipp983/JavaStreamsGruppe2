@@ -7,6 +7,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 public class HowItLooks {
+
 	static class Employee {
 		private String name;
 		private int age;
@@ -76,6 +77,4 @@ public class HowItLooks {
 
 
 	}
-
-
 }

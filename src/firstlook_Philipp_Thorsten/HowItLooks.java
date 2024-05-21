@@ -7,6 +7,26 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 public class HowItLooks {
+
+	static class Employee {
+		private String name;
+		private int age;
+
+		// Constructor, getters, and setters omitted for brevity
+
+		public Employee(String name, int age) {
+			this.name = name;
+			this.age = age;
+		}
+
+		public String getName() {
+			return name;
+		}
+
+		public int getAge() {
+			return age;
+		}
+	}
 	public static void main(String[] args) {
 		// Some Data Set
 		List<Employee> employees = new ArrayList<>();
@@ -56,25 +76,5 @@ public class HowItLooks {
 		System.out.println(namesFromStreams);
 
 
-	}
-
-	static class Employee {
-		private String name;
-		private int age;
-
-		// Constructor, getters, and setters omitted for brevity
-
-		public Employee(String name, int age) {
-			this.name = name;
-			this.age = age;
-		}
-
-		public String getName() {
-			return name;
-		}
-
-		public int getAge() {
-			return age;
-		}
 	}
 }

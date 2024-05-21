@@ -1,4 +1,4 @@
-package functionalInterface;
+package functionalInterface_Philipp_Thorsten;
 
 public class ImplementationOfIFunctionalInterface {
 

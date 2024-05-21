@@ -1,4 +1,4 @@
-package implementedfunctionalinterfaces;
+package implementedfunctionalinterfaces_Yasin_Osama;
 
 import java.util.function.BiFunction;
 import java.util.function.Function;
